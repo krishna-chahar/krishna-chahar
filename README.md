@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krishna-chahar
 - 🌱 I’m currently learning basic programming
-- 📫 How to reach me ...  linkedin - https://www.linkedin.com/in/krishna-chahar
-                          email     -yatindanger0001@gmail.com
+- 📫 How to reach me ...  email     -yatindanger0001@gmail.com
   
 
 <!---
